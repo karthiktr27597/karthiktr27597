@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Full Stack Projects
+- 🌱 I’m currently learning MERN Stack and AI
+- 👯 I’m looking to collaborate on FullStack developer
+- 🤔 I’m looking for help with Seniors
+
+
 <!--
 **karthiktr27597/karthiktr27597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
