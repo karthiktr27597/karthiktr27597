@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Full Stack Projects
 - 🌱 I’m currently learning MERN Stack and AI
-- 👯 I’m looking to collaborate on FullStack developer
+- 👯 I’m looking to collaborate on FullStack developers
 - 🤔 I’m looking for help with Seniors
 
 
